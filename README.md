@@ -11,7 +11,7 @@ Endpoint of a two way communication link between two programs running on the net
 + Python3
 
 ## Contact Informantion
-Incase of any enquiries or contributions, be sure to email us at :
+Incase of any enquiries or contributions, be sure to email me at :
 + noela.murugi@student.moringaschool.com
 
 ## License
