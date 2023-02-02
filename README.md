@@ -11,8 +11,8 @@ Endpoint of a two way communication link between two programs running on the net
 + Python3
 
 ## Contact Informantion
-Incase of any enquiries or contributions, be sure to email me at :
-+ noela.murugi@student.moringaschool.com
+Incase of any enquiries or contributions, be sure to email me :
+ [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](noela.murugi@student.moringaschool.com)
 
 ## License
 MIT Licence<br>
