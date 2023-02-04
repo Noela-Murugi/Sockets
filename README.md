@@ -1,5 +1,7 @@
 # Sockets
- [![Assignment-Badge](https://img.shields.io/badge/Assignment-blue.svg)
+
+ ![Assignment-Badge](https://img.shields.io/badge/Assignment-blue.svg)
+ 
 ## Technologies Used
 + Python3
 
