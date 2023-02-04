@@ -1,5 +1,5 @@
 # Sockets
- [![Badge](https://img.shields.io/badge/-blue?style=flat&logo=Assignment&logoColor=white)](Assignment)
+ [![Assignment-Badge](https://img.shields.io/badge/-blue?style=flat&logo=Assignment&logoColor=white)](Assignment)
 ## Technologies Used
 + Python3
 
