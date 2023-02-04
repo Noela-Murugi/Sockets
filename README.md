@@ -1,11 +1,4 @@
 # Sockets
-Endpoint of a two way communication link between two programs running on the network.
-
- ## Author
- + Noela Murugi
-
-## Unit
-* Distributed Systems
 
 ## Technologies Used
 + Python3
