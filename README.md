@@ -1,11 +1,11 @@
 # Sockets
-
+ [![Badge](https://img.shields.io/badge/-blue?style=flat&logo=Assignment&logoColor=white)]()
 ## Technologies Used
 + Python3
 
 ## Contact Informantion
 Incase of any enquiries or contributions, be sure to email me :
- [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](noela.murugi@student.moringaschool.com)
+ [![Gmail Badge](https://img.shields.io/badge/-gmail-red?style=flat&logo=Gmail&logoColor=white)](noelatrixie@gmail.com)
 
 ## License
 MIT Licence<br>
